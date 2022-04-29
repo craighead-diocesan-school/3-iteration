@@ -6,8 +6,14 @@ Fibonacci was an Italian mathematician who came up with a series that also appea
 
 Create a program that asks the user for a number and then gives them the Fibonacci sequence up to that number.
 
-## Example
+## Examples
 
-> Maximum number: 10
+`Maximum number:` 5
 
-> Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
+`Fibonacci sequence: 0, 1, 1, 2, 3, 5`
+
+---
+
+`Maximum number:` 10
+
+`Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8`
