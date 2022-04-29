@@ -16,3 +16,8 @@ function attendees() {
   
   alert(attendees) 
 }
+
+function make2() {
+  // copy and paste your code here when you get to the Make step
+  
+}
