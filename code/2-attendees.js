@@ -14,7 +14,7 @@ function attendees() {
     count = count + 1
   }
   
-  alert(attendees) 
+  alert(attendeeList) 
 }
 
 function make2() {
